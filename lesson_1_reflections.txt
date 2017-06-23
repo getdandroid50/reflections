@@ -1,0 +1,9 @@
+Reflections
+
+FC I would have preferred to use the diff from unix. 
+   Maybe load the public domain unix tool set, with zip and unzip, compress ...
+Other tools/programs that have version control, google docs, wiki , dropbox
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+   Dont like the auto saved for code, sometimes ok for raw text files.
